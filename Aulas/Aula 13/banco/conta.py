@@ -22,5 +22,4 @@ class Conta:
         print(f'{self.numero} de {self.titular} tem saldo de R$ {self.saldo}')
 
     def gerar_numero_conta(self):
-        
-
+        pass
